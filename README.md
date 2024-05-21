@@ -19,6 +19,9 @@ Miembros
 
 
 
+
+
+
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
@@ -230,7 +233,10 @@ En resumen, hemos logrado dar forma a nuestra web y definir la estructura de nav
 
 ## Demostracion
 
-![Método UX](P3/demostracion.mov)
+
+
+https://github.com/G3rarB0net/DIU/assets/88084412/2f80b5d0-e51c-4e79-a5c9-4eb6a340bc5b
+
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
