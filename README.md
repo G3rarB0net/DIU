@@ -83,7 +83,7 @@ pre-reserva y esperar a que la compañía se pusiese en contacto con ella.
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  [(sube a github el xls/pdf) ](https://github.com/G3rarB0net/DIU/blob/master/P1/Usability-review.pdf)
+>>> - Enlace al documento:  [(Link) ](https://github.com/G3rarB0net/DIU/blob/master/P1/Usability-review.pdf)
 >>> - Valoración final (numérica): 63
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
