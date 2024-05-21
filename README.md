@@ -1,11 +1,7 @@
-# DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24
-
-Grupo: DIU1_01AABB.  Curso: 2023/24 
 # DIU - Practica 3, entregables
-
+![logo](P3/logo_transparente.png)
 ## Moodboard (diseño visual + logotipo)   
-
+![moodboard](P3/moodboard.png)
 
 ## Landing Page
 
