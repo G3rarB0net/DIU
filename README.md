@@ -142,8 +142,7 @@ Login: Para tener sesiones.
 De patron extra hemos añadido: -Event Calendar para poder seleccionar que fecha queremos.
 
 ## Mockup: LAYOUT HI-FI
-
-
+![Método UX](P3/layoutsHIFI/inicio.png)
 ## Documentación: Publicación del Case Study
 
 
