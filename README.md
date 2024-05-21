@@ -7,8 +7,9 @@ Proyecto:
 Mountain Sports
 
 Logotipo: 
+
 ![Método UX](P3/logo_transparente.png)
->>> 
+
 Miembros
  * :bust_in_silhouette:   Ignacio fortes soria     :octocat:     
  * :bust_in_silhouette:  Gerardo bonet perez     :octocat:
