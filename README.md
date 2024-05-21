@@ -83,10 +83,27 @@ pre-reserva y esperar a que la compañía se pusiese en contacto con ella.
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Enlace al documento:  [(sube a github el xls/pdf) ](https://github.com/G3rarB0net/DIU/blob/master/P1/Usability-review.pdf)
+>>> - Valoración final (numérica): 63
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+Granaventour es una plataforma web dedicada a ofrecer actividades, principalmente
+en la montaña, en la región de Granada, incluyendo senderismo, escalada, esquí,
+rapel, entre otros.
+Aunque su objetivo principal es permitir a los usuarios reservar estas actividades
+fácilmente, presenta una serie de problemas signiﬁcativos. La falta de información
+como el precio y lugar de dicha actividad y la necesidad de tener que contactar con
+ellos para completar reservas hacen que la funcionalidad de reserva sea poco útil en
+muchos casos.
+Tiene también varios problemas de usabilidad, la página solo está disponible en
+español, lo que diﬁculta su accesibilidad para usuarios extranjeros, a pesar de
+ofrecer una opción de cambio de idioma que no funciona adecuadamente. Además,
+el buscador que dispone tampoco funciona correctamente.
+En general, la página no tiene una estructura y diseño adecuados, con
+funcionalidades básicas mal implementadas o ausentes. Se hace evidente la
+necesidad urgente de mejorar la calidad y la usabilidad del sitio web para competir
+con otras empresas del sector que ofrecen servicios similares de manera más
+efectiva.
 
 ## Paso 2. UX Design  
 
