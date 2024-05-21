@@ -143,20 +143,30 @@ De patron extra hemos añadido: -Event Calendar para poder seleccionar que fecha
 
 ## Mockup: LAYOUT HI-FI
 Inicio
+
 ![Método UX](P3/layoutsHIFI/inicio.png)
 
 Login
+
 ![Método UX](P3/layoutsHIFI/login.png)
+
 Registro
+
 ![Método UX](P3/layoutsHIFI/registro.png)
+
 Actividades
+
 ![Método UX](P3/layoutsHIFI/Actividades.png)
+
 Actividad
+
 ![Método UX](P3/layoutsHIFI/actividad.png)
+
 Reserva
 ![Método UX](P3/layoutsHIFI/reserva.png)
 
 Pago
+
 ![Método UX](P3/layoutsHIFI/pago.png)
 
 ## Documentación: Publicación del Case Study
