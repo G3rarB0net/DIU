@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
-![logo](p3/logo_transparente.png)
+![logo](P3/logo_transparente.png)
 ## Moodboard (diseño visual + logotipo)   
-![moodboard](p3/moodboard.png)
+![moodboard](P3/moodboard.png)
 
 ## Landing Page
 
