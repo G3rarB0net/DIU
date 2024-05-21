@@ -114,43 +114,25 @@ efectiva.
 ![Método UX](P2/empathy.png)
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
-
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![Método UX](P2/Scope_canvas.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
-
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-----
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Método UX](P2/Sitemap.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
+![Método UX](P2/PaginaPrincipal.jpg)
+
+
+![Método UX](P2/Actividad.jpg)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
