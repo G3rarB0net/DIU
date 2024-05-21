@@ -141,7 +141,8 @@ Login: Para tener sesiones.
 
 De patron extra hemos añadido: -Event Calendar para poder seleccionar que fecha queremos.
 
-## Mockup: LAYOUT HI-FI
+![Método UX](img/mockup.png)  3.d Mockup
+
 Inicio
 
 ![Método UX](P3/layoutsHIFI/inicio.png)
@@ -174,19 +175,6 @@ Pago
 Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
 En resumen, hemos logrado dar forma a nuestra web y definir la estructura de navegación en la página. Sin embargo, nos encontramos con algunos desafíos al crear los diseños, ya que esta fue la parte más compleja de la práctica.
-
-![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
