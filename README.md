@@ -1,28 +1,22 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Deportes de monataña ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU3_14avefenix.  Curso: 2023/24 
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Mountain Sports
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
-
+![Método UX](P3/logo_transparente.png)
+>>> 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Ignacio fortes soria     :octocat:     
+ * :bust_in_silhouette:  Gerardo bonet perez     :octocat:
 
 ----- 
 
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -108,7 +102,6 @@ Término | Significado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
-
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
@@ -119,7 +112,7 @@ Término | Significado
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-![Método UX](p3/moodboard.png)
+![Método UX](P3/moodboard.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
