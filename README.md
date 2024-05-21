@@ -228,6 +228,9 @@ Valoración del equipo sobre la realización de esta práctica o los problemas s
 
 En resumen, hemos logrado dar forma a nuestra web y definir la estructura de navegación en la página. Sin embargo, nos encontramos con algunos desafíos al crear los diseños, ya que esta fue la parte más compleja de la práctica.
 
+## Demostracion
+
+![Método UX](P3/demostracion.webm)
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
