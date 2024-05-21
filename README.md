@@ -191,6 +191,10 @@ Actividades
 
 ![Método UX](P3/layoutsHIFI/Actividades.png)
 
+Busqueda
+
+![Método UX](P3/layoutsHIFI/busqueda.png)
+
 Actividad
 
 ![Método UX](P3/layoutsHIFI/actividad.png)
