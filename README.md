@@ -7,7 +7,6 @@ Proyecto:
 Mountain Sports
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 ![Método UX](P3/logo_transparente.png)
 >>> 
 Miembros
