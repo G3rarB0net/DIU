@@ -52,10 +52,13 @@ Hemos elegido a Paco ya que es un perfil común entre la gente que hace este tip
 deportes, muy sociables, y con ganas de mejorar, pero que no quita que aunque no lo
 exprese tenga preocupaciones.
 
+![Método UX](P1/img/paco1.png)
 
 Hemos elegido a Alicia ya que es un perfil común entre la gente joven, que estudia y trabaja
 al mismo tiempo haciendo disponga de poco tiempo y presupuesto, y que además le
 encanta la vida saludable y los deportes intensos.
+
+![Método UX](P1/img/alicia1.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
@@ -65,11 +68,16 @@ Paco ha sido capaz de reservar la actividad después de dos intentos, el primero
 haber fechas disponibles no pudo ser, también se queda con ciertas dudas sobre la
 información.
 
+![Método UX](P1/img/paco2.png)
+
 Alicia después de que le recomendaran la web ha sido capaz de hacer una reserva de la
 actividad que ella quería pero ha tenido varias complicaciones. Una de ellas ha sido la falta
 de información acerca de la actividad, como el precio, horarios o localización de la misma, y
 otra de ellas ha sido la dificultad a la hora de hacer la reserva donde tenía que hacer una
 pre-reserva y esperar a que la compañía se pusiese en contacto con ella.
+
+![Método UX](P1/img/alicia2.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
