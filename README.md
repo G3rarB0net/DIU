@@ -111,8 +111,7 @@ efectiva.
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+![Método UX](P2/empathy.png)
 
 
  Interesante | Críticas     
