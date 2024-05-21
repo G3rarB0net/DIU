@@ -5,6 +5,7 @@
 
 ## Landing Page
 
+## Guidelines
 
 ## Mockup: LAYOUT HI-FI
 
