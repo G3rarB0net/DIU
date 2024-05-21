@@ -146,7 +146,7 @@ efectiva.
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
+![Método UX](P3/landinPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -199,11 +199,21 @@ Busqueda
 
 ![Método UX](P3/layoutsHIFI/busqueda.png)
 
+Amigos
 
+![Método UX](P3/layoutsHIFI/amigos.png)
+
+Mensajes
+
+![Método UX](P3/layoutsHIFI/chatamigo.png)
 
 Actividad
 
 ![Método UX](P3/layoutsHIFI/actividad.png)
+
+Galeria de imagenes
+
+![Método UX](P3/layoutsHIFI/galeriaimagenes.png)
 
 Reserva
 
