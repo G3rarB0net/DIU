@@ -27,23 +27,49 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+Estamos planeando mejorar la experiencia de uso del sitio web de Granaventour. Vamos a
+hablar con la gente, observar cómo usan la página y hacerles probar algunas partes para ver
+qué les gusta y qué no. Queremos saber si encuentran fácil lo que buscan y si la página se
+ve bien visualmente.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+Granaventour enfrenta desafíos significativos. Aunque ofrece una amplia gama de
+actividades, su proceso de reserva es complicado y no muestra los precios de manera clara.
+Además, la organización de las actividades en su sitio web es confusa. Por el contrario,
+Nevadensis y Takama Aventura son más fáciles de usar. Aunque Nevadensis también tiene
+problemas con la reserva y la transparencia de precios, ofrece una amplia variedad de
+actividades. Takama Aventura destaca por su facilidad de reserva y la disponibilidad de
+información detallada sobre las actividades. Sin embargo, aún tiene margen de mejora en
+algunos aspectos del diseño. En conclusión, Granaventour no se desempeña tan bien como
+sus competidores en términos de facilidad de uso y transparencia.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Hemos elegido a Paco ya que es un perfil común entre la gente que hace este tipo de
+deportes, muy sociables, y con ganas de mejorar, pero que no quita que aunque no lo
+exprese tenga preocupaciones.
+
+
+Hemos elegido a Alicia ya que es un perfil común entre la gente joven, que estudia y trabaja
+al mismo tiempo haciendo disponga de poco tiempo y presupuesto, y que además le
+encanta la vida saludable y los deportes intensos.
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Paco ha sido capaz de reservar la actividad después de dos intentos, el primero por no
+haber fechas disponibles no pudo ser, también se queda con ciertas dudas sobre la
+información.
+
+Alicia después de que le recomendaran la web ha sido capaz de hacer una reserva de la
+actividad que ella quería pero ha tenido varias complicaciones. Una de ellas ha sido la falta
+de información acerca de la actividad, como el precio, horarios o localización de la misma, y
+otra de ellas ha sido la dificultad a la hora de hacer la reserva donde tenía que hacer una
+pre-reserva y esperar a que la compañía se pusiese en contacto con ella.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
