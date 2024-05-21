@@ -171,9 +171,10 @@ Pago
 ![Método UX](P3/layoutsHIFI/pago.png)
 
 ## Documentación: Publicación del Case Study
+Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
+En resumen, hemos logrado dar forma a nuestra web y definir la estructura de navegación en la página. Sin embargo, nos encontramos con algunos desafíos al crear los diseños, ya que esta fue la parte más compleja de la práctica.
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
