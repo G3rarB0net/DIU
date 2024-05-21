@@ -163,6 +163,7 @@ Actividad
 ![Método UX](P3/layoutsHIFI/actividad.png)
 
 Reserva
+
 ![Método UX](P3/layoutsHIFI/reserva.png)
 
 Pago
