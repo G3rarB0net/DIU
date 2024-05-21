@@ -187,6 +187,10 @@ Registro
 
 ![Método UX](P3/layoutsHIFI/registro.png)
 
+Perfil
+
+![Método UX](P3/layoutsHIFI/perfil.png)
+
 Actividades
 
 ![Método UX](P3/layoutsHIFI/Actividades.png)
@@ -194,6 +198,8 @@ Actividades
 Busqueda
 
 ![Método UX](P3/layoutsHIFI/busqueda.png)
+
+
 
 Actividad
 
