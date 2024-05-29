@@ -69,8 +69,15 @@ y Resumen conciso de problemas detectados ]
  
 
 #### Test de usuarios: Participantes
+Para el caso SUS se han seleccionado dos de estas personas y se les han mostrado ambas interfaces
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+| Usuario ID| Sexo      | Edad | Ocupación  | Experiencia TIC         | Perfil  | Test | SUS  |
+| --------- | --------- | ---- | ---------- | ----------------------- | ------- | ---- | ---- | 
+| Julia | Femenino  | 24   | Profesora        | Media | Le apasiona la enseñanza y siempre está buscando maneras innovadoras de enseñar tambien le gusta el deporte.                               | A    | 95   |
+| Paco  | Masculino | 22   | Estudiante       | Alta  | Está cursando una carrera en informática y le encanta estar al día con las últimas innovaciones tecnológicas y deporte en su tiempo libre. | A    | 85   |
+| Juan  | Masculino | 25   | Obrero           | Media | Aunque su trabajo no está directamente relacionado con la tecnología ni el deporte esta iniciandose en ello.                               | A    | 80   |
+| Mar   | Femenino  | 30   | Administradora   | Media | se encarga de la gestión de diversas tareas administrativas y en su tiempo libre practicar deporte.                                        | B    | 82.5 |
+
 
 
 
