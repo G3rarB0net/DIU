@@ -13,8 +13,7 @@
 
 
 
-
-[img Proyecto](./Img/LogoBorrachos.png)
+![Imagen Proyecto]((./Img/LogoBorrachos.png)
 
 [Enlace a GITHUB del proyecto](https://github.com/Machaquilla/DIU)
 
