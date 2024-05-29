@@ -6,17 +6,17 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (MOUNTAIN SPORTS )
+### (Gran Walking)
 
-### (Fecha)
-
-
+### (29/05/2024)
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+
+[img Proyecto](./Img/LogoBorrachos.png)
+
+[Enlace a GITHUB del proyecto](https://github.com/Machaquilla/DIU)
 
 
 
