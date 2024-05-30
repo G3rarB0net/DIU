@@ -90,28 +90,29 @@ Los resultados de los cuestionarios SUS muestran una puntuación positiva en la 
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
+Aunque la idea y las funciones ofrecidas han sido bien recibidas, se han identificado varias áreas que requieren mejoras.
 
 
 #### Incidencias
+No esta disponible en ningun lado el .fig en github ni esta en el grupo comun de figma, para comprobarlo con las animaciones. O la app en si.
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
+- Algunas funciones no fueron intuitivas, causando que los usuarios necesitaran más tiempo o ayuda para navegar.
+- La navegación resultó confusa en algunos casos.
+- Algunas páginas del sitio web parecen vacías, lo que puede desorientar a los usuarios.
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+- Los usuarios valoraron positivamente la idea de la web y las funciones ofrecidas, especialmente la posibilidad de conocer gente y participar en actividades.
+- La integración de múltiples servicios en una sola plataforma fue bien recibida.
+- La consistencia en el diseño también fue apreciada.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
-
-* (Puntos de mejora)
-
+- Añadir un wizard que proporcione ayuda al usuario si fuera necesario.
+- Añadir más pantallas que amplíen la funcionalidad de la web y ayuden a distribuir mejor la información.
+- Rediseñar la estructura de la web para hacerla más intuitiva y accesible, especialmente para usuarios jóvenes y mayores.
 
 
 
@@ -120,4 +121,4 @@ Los resultados de los cuestionarios SUS muestran una puntuación positiva en la 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Las técnicas aplicadas fueron útiles para detectar errores ocultos y fallos de usabilidad en el sitio web "Gran Walking". Las pruebas con usuarios reales proporcionaron información valiosa que de otro modo no se habría identificado, y los resultados de SUS y eyetracking ofrecieron una visión clara de las áreas que necesitan mejoras.
