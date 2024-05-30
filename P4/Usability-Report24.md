@@ -60,6 +60,9 @@ Problemas de diseño ya que la web esta a veces vacia.
 
 La evaluación se ha hecho utilizando varias técnicas, incluyendo pruebas de usuarios y análisis de eyetracking. 
 Hemos hecho pruebas con usuarios en el que prueban la web y nos cuentan sus opiniones.
+- Sesiones de prueba de usuario: Los participantes interactuaron con la web para completar tareas específicas.
+- Cuestionarios SUS (System Usability Scale): Se recogieron respuestas de usuarios para obtener un puntaje de usabilidad.
+- Eyetracking: Se utilizó para analizar el patrón de mirada y las áreas de interés.
 
  
 
@@ -81,18 +84,7 @@ Para el caso SUS se han seleccionado dos de estas personas y se les han mostrado
 #### Resultados obtenidos
 
 
-
-(resultado de SUS)
-
-Vemos una puntuacion positiva de la usabilidad del sitio web, aunque hay margen para mejorar.
-
-(resultado de eyetracking)
-
-Los resultados del eyetracking son buenos pero tambien tienen margen de mejora como en el login.
-
-
-
-
+Los resultados de los cuestionarios SUS muestran una puntuación positiva en la usabilidad del sitio web, aunque hay margen para mejorar. Los resultados del eyetracking también son buenos, pero indican áreas que pueden mejorar, como el proceso de login.
 
 
 
