@@ -38,23 +38,17 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
-
  El proposito principal es una web para conocer gente y ofrecer distintas actividades en distintos lugares para andar. Te puedes registrar, apuntar, etc a estas actividades.
 
 
 
 ## 2 RESUMEN EJECUTIVO
 
+Evaluación detallada de la usabilidad del sitio web "Gran Walking"
 
-
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
-
-
-
-
+Dificultad para encontrar ciertas funcionalidades.
+Confusión en la navegación.
+Problemas de diseño ya que la web esta a veces vacia.
 
 
 
