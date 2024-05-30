@@ -60,9 +60,9 @@ Problemas de diseño ya que la web esta a veces vacia.
 
 La evaluación se ha hecho utilizando varias técnicas, incluyendo pruebas de usuarios y análisis de eyetracking. 
 Hemos hecho pruebas con usuarios en el que prueban la web y nos cuentan sus opiniones.
-- Sesiones de prueba de usuario: Los participantes interactuaron con la web para completar tareas específicas.
-- Cuestionarios SUS (System Usability Scale): Se recogieron respuestas de usuarios para obtener un puntaje de usabilidad.
-- Eyetracking: Se utilizó para analizar el patrón de mirada y las áreas de interés.
+- Pprueba de usuario: Los participantes interactuaron con la web para completar tareas específicas.
+- Cuestionarios SUS: Se recogieron respuestas de usuarios para obtener un puntaje de usabilidad.
+- Eyetracking
 
  
 
@@ -90,35 +90,31 @@ Los resultados de los cuestionarios SUS muestran una puntuación positiva en la 
 
 ## 4 CONCLUSIONES 
 
-Aunque la idea y las funciones ofrecidas han sido bien recibidas, se han identificado varias áreas que requieren mejoras.
+Aunque la idea y las funciones ofrecidas han sido buenas, se han identificado varias áreas que requieren mejoras.
 
 
 #### Incidencias
 No esta disponible en ningun lado el .fig en github ni esta en el grupo comun de figma, para comprobarlo con las animaciones. O la app en si.
 
-- Algunas funciones no fueron intuitivas, causando que los usuarios necesitaran más tiempo o ayuda para navegar.
+- Los usuarios necesitaran más tiempo o ayuda para navegar por la web principal.
 - La navegación resultó confusa en algunos casos.
-- Algunas páginas del sitio web parecen vacías, lo que puede desorientar a los usuarios.
+- Algunas páginas del sitio web parecen vacías.
 
 
 #### Valoración 
 
 - Los usuarios valoraron positivamente la idea de la web y las funciones ofrecidas, especialmente la posibilidad de conocer gente y participar en actividades.
-- La integración de múltiples servicios en una sola plataforma fue bien recibida.
-- La consistencia en el diseño también fue apreciada.
+- El aspecto visual esta bien logrado y es agradable a la vista.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
-- Añadir un wizard que proporcione ayuda al usuario si fuera necesario.
 - Añadir más pantallas que amplíen la funcionalidad de la web y ayuden a distribuir mejor la información.
-- Rediseñar la estructura de la web para hacerla más intuitiva y accesible, especialmente para usuarios jóvenes y mayores.
-
-
+- Rediseñar la estructura de algunas paginas para hacerlas más completas.
 
 
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-Las técnicas aplicadas fueron útiles para detectar errores ocultos y fallos de usabilidad en el sitio web "Gran Walking". Las pruebas con usuarios reales proporcionaron información valiosa que de otro modo no se habría identificado, y los resultados de SUS y eyetracking ofrecieron una visión clara de las áreas que necesitan mejoras.
+Las técnicas aplicadas fueron útiles para detectar errores ocultos y fallos de usabilidad . Las pruebas con usuarios reales nos diern información valiosa , y los resultados de SUS y eyetracking ofrecieron una visión clara de las áreas que necesitan mejoras.
