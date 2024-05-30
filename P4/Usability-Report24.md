@@ -86,6 +86,8 @@ Para el caso SUS se han seleccionado dos de estas personas y se les han mostrado
 
 Los resultados de los cuestionarios SUS muestran una puntuación positiva en la usabilidad del sitio web, aunque hay margen para mejorar. Los resultados del eyetracking también son buenos, pero indican áreas que pueden mejorar, como el proceso de login.
 
+![ImagenEyeTracking1](./EyeStudycasoB/CancelEvent.png) ![ImagenEyeTracking2](./EyeStudycasoB/CreateAccount.png) ![ImagenEyeTracking3](./EyeStudycasoB/EventPage.png) ![ImagenEyeTracking4](./EyeStudycasoB/HomePage.png) ![ImagenEyeTracking5](./EyeStudycasoB/SingUp.png)
+
 
 
 ## 4 CONCLUSIONES 
