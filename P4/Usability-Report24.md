@@ -58,7 +58,8 @@ Problemas de diseño ya que la web esta a veces vacia.
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+La evaluación se ha hecho utilizando varias técnicas, incluyendo pruebas de usuarios y análisis de eyetracking. 
+Hemos hecho pruebas con usuarios en el que prueban la web y nos cuentan sus opiniones.
 
  
 
