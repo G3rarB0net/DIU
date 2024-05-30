@@ -40,7 +40,7 @@
 
 [Incluir un breve resumen el propósito de la App]
 
- 
+ El proposito principal es una web para conocer gente y ofrecer distintas actividades en distintos lugares para andar. Te puedes registrar, apuntar, etc a estas actividades.
 
 
 
