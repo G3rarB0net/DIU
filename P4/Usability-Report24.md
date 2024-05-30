@@ -84,11 +84,11 @@ Para el caso SUS se han seleccionado dos de estas personas y se les han mostrado
 
 (resultado de SUS)
 
-
+Vemos una puntuacion positiva de la usabilidad del sitio web, aunque hay margen para mejorar.
 
 (resultado de eyetracking)
 
-
+Los resultados del eyetracking son buenos pero tambien tienen margen de mejora como en el login.
 
 
 
